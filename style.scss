@@ -1,0 +1,29 @@
+nav.navbar {
+  img {
+    height: 33px;
+    display: inline-block;
+  }
+
+  ul.nav.navbar-nav {
+    float: right;
+  }
+}
+
+.table-title {
+  float: right;
+  margin-bottom: 10px;
+
+  b {
+    display: inline-block;
+    margin-right: 10px;
+  }
+}
+
+div.row-btns {
+  margin-bottom: 15px;
+
+  .btn {
+    display: inline-block;
+    margin-right: 8px;
+  }
+}

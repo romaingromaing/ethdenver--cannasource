@@ -1,0 +1,20 @@
+nav.navbar img {
+  height: 33px;
+  display: inline-block; }
+nav.navbar ul.nav.navbar-nav {
+  float: right; }
+
+.table-title {
+  float: right;
+  margin-bottom: 10px; }
+  .table-title b {
+    display: inline-block;
+    margin-right: 10px; }
+
+div.row-btns {
+  margin-bottom: 15px; }
+  div.row-btns .btn {
+    display: inline-block;
+    margin-right: 8px; }
+
+/*# sourceMappingURL=style.css.map */

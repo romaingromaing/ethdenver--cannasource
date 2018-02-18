@@ -1,0 +1,13 @@
+proto website config
+
+port 8080
+
+remember to change where a website id "located", edit sites-available.conf file ports.conf file
+
+then
+sudo a2ensite <-site>.conf
+service apache2 reload
+
+located at localhost:<port>/<site>/#
+
+locahost:8080/proto/#
